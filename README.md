@@ -1,4 +1,4 @@
-# Kamal's Interactive Portfolio
+# Interactive Portfolio
 
 A personal portfolio built as an interactive desktop-style experience rather than a traditional portfolio website.
 
