@@ -128,8 +128,8 @@ function ProjectDetail({ id }) {
 
 function ProjectVisualMini({ index, title }) {
   const stamps = [
-    ['REGISTRY', 'PRODUCT  /  PACKAGE  /  NDC', 'ACTIVE', '70xxx'],
-    ['PIPELINE', 'INGEST  →  TRANSFORM  →  CHECK', '07 SIGNALS', 'DATA'],
+    ['REGISTRY', 'LABEL / PRODUCT  /  PACKAGE', 'ACTIVE', 'L-P-P'],
+    ['PIPELINE', 'EXTRACT  →  TRANSFORM  →  LOAD', '07 SIGNALS', 'DATA'],
     ['MOTION', 'STATE  /  INPUT  /  FEEDBACK', 'SYNC', 'UI'],
     ['FIELD NOTE', 'SMALL BUILDS  /  ODD IDEAS', 'OPEN', 'K/04']
   ];

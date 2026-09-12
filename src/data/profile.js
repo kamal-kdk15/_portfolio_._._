@@ -2,14 +2,14 @@ export const profile = {
   name: 'Kamal',
   title: 'Developer / Builder',
   className: 'SYSTEM BUILDER',
-  bio: 'Full-stack developer building with Next.js and the PERN stack, with growing experience in data pipelines (Databricks, ETL/ELT) and AI-driven tools and automation (n8n, Agentic AI).',
+  bio: 'Full-stack developer building with Next.js and the PERN stack, with growing experience in data pipelines and AI-driven tools and automation.',
   skills: [
-    { name: 'Next.js / React', level: 86, stat: 'FRONTEND' },
-    { name: 'Node.js (PERN Stack)', level: 78, stat: 'BACKEND' },
+    { name: 'Next.js / React', level: 92, stat: 'FRONTEND' },
+    { name: 'Node.js (PERN Stack)', level: 85, stat: 'BACKEND' },
     { name: 'PostgreSQL / SQL', level: 80, stat: 'DATA' },
-    { name: 'Databricks (ETL/ELT)', level: 70, stat: 'DATA ENGINEERING' },
+    { name: 'Databricks', level: 70, stat: 'DATA ENGINEERING' },
     { name: 'AI & Automation', level: 75, stat: 'AGENTIC AI / n8n' },
-    { name: 'GSAP / Motion', level: 68, stat: 'MOTION' }
+    { name: 'GSAP / Motion', level: 90, stat: 'MOTION' }
   ],
   attributes: [
     ['BUILD', '88'],
